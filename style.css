@@ -1,0 +1,28 @@
+h2 {
+    color: rgba(10, 55, 10, 0.5);
+}
+
+table {
+    border: 2px solid rgb(201, 149, 149);
+
+    border-collapse: collapse;
+
+    th,
+    td {
+        border: 1px solid blue;
+
+        padding-left: 20px;
+        padding-right: 18px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding: 5px 20px;
+
+
+    }
+
+}
+
+
+th {
+    background-color: rgb(73, 162, 73);
+}
